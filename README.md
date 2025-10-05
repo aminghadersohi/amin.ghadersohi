@@ -13,10 +13,10 @@ I build the systems that help companies make better decisions with data—from m
 
 ## 💼 Background
 - **Current:** Staff Software Engineer at [Preset](https://preset.io) (Platform & AI Integration)
-- **Previously:** Engineering Leader at **Tinder** (scaled analytics org 7→25 engineers)
-- **Before that:** Senior Engineer at **Uber** (Piper workflow platform, mobile growth features) and **Meta**
+- **Previously:** Engineering Leader at **Tinder** (10x engineer → 10x manager: built Hubble/EventsSDK analytics platform, scaled team 7→25 engineers)
+- **Before that:** Senior Engineer at **Uber** (built Piper workflow platform, one of first mobile engineers on Rider Growth)
 - **Also:** CTO & Cofounder at **Alvear Lending** (fintech platform)
-- **Roots:** Built [XDMoD](https://github.com/ubccr/xdmod), an open-source HPC analytics platform
+- **Roots:** Architected [XDMoD](https://github.com/ubccr/xdmod), an NSF-funded open-source HPC analytics platform still operating at national labs 14+ years later
 
 ## 🛠️ Tech Stack
 ```python
@@ -42,10 +42,11 @@ ai_ml = ["LangChain", "FastMCP", "Pinecone", "FAISS"]
 - 🌐 [aminghadersohi.com](https://aminghadersohi.com) (coming soon)
 
 ## 📊 Fun Facts
-- Scaled Tinder's analytics to process **billions of events daily**
-- Built Uber's first workflow platform (**Piper**), migrated 75+ pipelines
+- **10x engineer → 10x manager at Tinder:** Built Hubble/EventsSDK analytics platform (billions of events/day, 98% data quality), then scaled team 7→25 engineers, interviewed 200+ candidates, promoted 8 engineers
+- **Built Uber's Piper** workflow platform from scratch—now powering **200,000+ pipelines** across 1,000+ teams (grew 2,600x from initial 75 workflows)
+- **One of Uber's first mobile engineers**—architected Thrift-based content platform serving millions of marketing impressions daily
 - Achieved **95% first-attempt success rate** for LLM-generated visualizations at Preset
-- Academic roots in **HPC systems** at national labs
+- Architected **XDMoD**, an NSF-funded HPC analytics platform **still running at national labs 14+ years later** (93 stars, 4,666+ commits, v11.0.2 released Aug 2025)
 
 ---
 
